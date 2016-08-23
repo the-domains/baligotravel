@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.2247445
+color:
+  lightness: 0.7914724
+  brandStrength: 0.9825454
+  saturation: 0.3943577
+  rhythmicContrast: 0.9839134
+  brandColors:
+    - '#FFFFFF'
+    - '#0D0C0E'
+    - '#4E4746'
+    - '#8C8280'
+    - '#FF8482'
+name: Baligotravel
